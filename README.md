@@ -74,5 +74,3 @@ Steps to run the code:
 
 7. Insert the image to be tested in the Input module and run it for the concept detction or/ caption prediction.
 
-6. Run the application using the following command.
-   1. python manage.py runserver
